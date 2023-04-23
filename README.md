@@ -1,5 +1,4 @@
-#サイト名
-<Logistics Club>
+# <logistics club>
 
 ## サイト概要
 ### サイトテーマ
